@@ -1,0 +1,29 @@
+Converting GML script: C:\Users\hoangmyntran\Documents\GameMakerStudio2\IsoTut\conv\gmx\IsoTut_67E34744\objects\objControl\Create_0.gml
+Converted description /// @description Initialize Variables
+
+Converting GML script: C:\Users\hoangmyntran\Documents\GameMakerStudio2\IsoTut\conv\gmx\IsoTut_67E34744\objects\objRed\Draw_0.gml
+Converted description /// @description Draw self
+
+Converting GML script: C:\Users\hoangmyntran\Documents\GameMakerStudio2\IsoTut\conv\gmx\IsoTut_67E34744\objects\objBlue\Draw_0.gml
+Converted description /// @description Draw self
+
+Converting GML script: C:\Users\hoangmyntran\Documents\GameMakerStudio2\IsoTut\conv\gmx\IsoTut_67E34744\objects\objGreen\Draw_0.gml
+Converted description /// @description Draw self
+
+Converting GML script: C:\Users\hoangmyntran\Documents\GameMakerStudio2\IsoTut\conv\gmx\IsoTut_67E34744\objects\objYellow\Draw_0.gml
+Converted description /// @description Draw self
+
+Converting GML script: C:\Users\hoangmyntran\Documents\GameMakerStudio2\IsoTut\conv\gmx\IsoTut_67E34744\objects\objBlack\Step_0.gml
+String not found: ConversionLog_ConvertedString 1 'Q' "Q"
+String not found: ConversionLog_ConvertedString 5 'A' "A"
+
+Converting GML script: C:\Users\hoangmyntran\Documents\GameMakerStudio2\IsoTut\conv\gmx\IsoTut_67E34744\objects\objBlack\Draw_0.gml
+Converted description /// @description Draw self
+
+Converting GML script: C:\Users\hoangmyntran\Documents\GameMakerStudio2\IsoTut\conv\gmx\IsoTut_67E34744\objects\objMover\Draw_0.gml
+Converted description /// @description Draw self
+
+Converting GML script: C:\Users\hoangmyntran\Documents\GameMakerStudio2\IsoTut\conv\gmx\IsoTut_67E34744\objects\objMoverAnimated\Draw_0.gml
+Converted description /// @description Draw self
+
+Game speed set to 60
